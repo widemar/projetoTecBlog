@@ -41,6 +41,10 @@ a:active{
     float: left;
     padding: 15px;
 }
+.conteudoSecundario img{
+    width: 221px;
+    height: 200px;
+}
 .limparFluxo{
     clear: both;
 }

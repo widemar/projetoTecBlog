@@ -1,0 +1,60 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+.menu{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(228, 228, 12);
+}
+.menu strong{
+    color: white;
+}
+.menu a{
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+a:link{
+    color:white;
+    font-weight: bold;
+}
+a:hover{
+    background-color: white;
+    color: orange;
+}
+a:active{
+    color: blue;
+}
+#containerPrincipal{
+    width: 940px;
+    margin: 0 auto;
+}
+.conteudoPrincipal{
+    width: 640px;
+    float: left;
+    margin-right: 15px;
+    padding: 15px;
+}
+.conteudoSecundario{
+    width: 221px;
+    float: left;
+    padding: 15px;
+}
+.limparFluxo{
+    clear: both;
+}
+.linksConteudos{
+    color: orange;
+    text-decoration: none;
+}
+.rodape{
+    text-align: center;
+}
+.h3Formatacao{
+  background-color: gray;
+  padding: 9px;  
+}
+.conteudoSecundario a{
+    display: block;
+}
